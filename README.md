@@ -1,6 +1,6 @@
-![Neko-X](https://telegra.ph/file/4bf4b16a4e561dac5ad62.jpg)
+![Oreki](https://te.legra.ph/file/b9d708c9a9ca42680ed06.jpg)
 
-# 𝐍𝐞𝐤𝐨 𝐑𝐨𝐛𝐨𝐭 [ BETA ]
+# 𝐎𝐫𝐞𝐤𝐢 𝐑𝐨𝐛𝐨𝐭 [ BETA ]
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Awesome-Prince/NekoRobot-3/?ref=repository-badge) [![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.dog/ProgrammerSupport) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Awesome-Prince/NekoRobot-3/graphs/contributors/)
 
 A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb database.
@@ -16,7 +16,7 @@ A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb dat
 - [x] Heroku Deploy
 - [x] Docker/Local Machine
 
-╘═━「 Can be found on telegram as [NekoRobot](https://telegram.dog/NekoX_bot) 」
+╘═━「 Can be found on telegram as [Oreki](https://telegram.dog/OrekiXPro_Bot) 」
 
 ## ╔═━「 Credits 」
 The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)

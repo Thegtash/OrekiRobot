@@ -113,9 +113,9 @@ HELP_MSG = "Click The Button Below To Get Help Menu In Your Dm."
 START_MSG = "I'm Awake Already!\n<b>Haven't Slept Since:</b> <code>{}</code>"
 
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/4bf4b16a4e561dac5ad62.jpg) 」────
-*Hola! {},*
-*I am an Anime Themed Advance Group Management Bot With Lot Of Sexy Features.*
+────「 [{}](https://te.legra.ph/file/f1ac664c60cda0341b2c6.jpg) 」────
+*Hey! {},*
+*I am an Anime Themed Advance Group Management Bot With Lot Of Useful Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
 ❍ `{}` *Users, Across* `{}` *Chats.*
@@ -141,7 +141,7 @@ buttons = [
             text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
         ),
         InlineKeyboardButton(
-            text="📢 Updates", url="https://telegram.dog/Programmer_Updates"
+            text="📢 Updates", url="https://telegram.dog/team_wolf_004"
         ),
     ],
 ]
@@ -304,7 +304,7 @@ def start(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="📢 Updates",
-                            url="https://telegram.dog/Programmer_Updates",
+                            url="https://telegram.dog/team_wolf_004",
                         ),
                     ]
                 ]
